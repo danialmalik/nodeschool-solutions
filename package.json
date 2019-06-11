@@ -1,0 +1,18 @@
+{
+  "name": "js_workshops",
+  "version": "1.0.0",
+  "description": "Js workshops sholutions from nodeschool.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "danial",
+  "license": "MIT",
+  "dependencies": {
+    "functional-javascript-workshop": "^1.0.6"
+  }
+}
