@@ -15,6 +15,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "expressworks": "^3.4.3",
-    "functional-javascript-workshop": "^1.0.6"
+    "functional-javascript-workshop": "^1.0.6",
+    "stylus": "^0.54.5"
   }
 }
