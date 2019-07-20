@@ -18,6 +18,7 @@
     "expressworks": "^3.4.3",
     "functional-javascript-workshop": "^1.0.6",
     "lololodash": "^0.9.0",
+    "stackup": "^1.0.2",
     "stylus": "^0.54.5"
   }
 }
