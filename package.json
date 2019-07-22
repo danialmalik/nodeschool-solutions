@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "bug-clinic": "^1.1.6",
+    "bytewiser": "^2.1.0",
     "express": "^4.17.1",
     "expressworks": "^3.4.3",
     "functional-javascript-workshop": "^1.0.6",
