@@ -21,6 +21,7 @@
     "expressworks": "^3.4.3",
     "functional-javascript-workshop": "^1.0.6",
     "lololodash": "^0.9.0",
+    "promise-it-wont-hurt": "^1.1.3",
     "stackup": "^1.0.2",
     "stylus": "^0.54.5",
     "uniq": "^1.0.1"
